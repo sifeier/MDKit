@@ -2,13 +2,13 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "22.0.1"
+    buildToolsVersion "23.0.1"
 
     defaultConfig {
         applicationId "com.mdkit"
         minSdkVersion 15
         targetSdkVersion 23
-        versionCode 1
+        versionCode 20160318
         versionName "1.0"
     }
     buildTypes {
